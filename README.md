@@ -5,6 +5,8 @@ Watch how three types of organisms live, are born and die in 2D space of console
 When I was learning C++ language, especially object oriented programming, at some point I decided to write a bigger project than simple exercises. An association to objects in C++, that appeared in my mind, were living creatures. Therefore I decided to make use of my fresh programming knowledge by creating an application where the objects would go through their life cycle in a mass scale like animals and plants in the real world.
 
 ## Screenshots
+![Screen1](./screen1.jpg)
+![Screen2](./screen2.jpg)
 
 ## Technologies
 * C++11
