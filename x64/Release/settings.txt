@@ -1,0 +1,20 @@
+MAP_Y 20	//rozmiar pionowy mapy
+MAP_X 30	//rozmiar poziomy mapy
+DELAY 200	//d³ugoœæ przerwy pomiêdzy obiegami pêtli symulacji
+ROCK_1 10	//przyrost kondycji roœliny na ska³ach pod wp³ywem czasu
+PLAN_1 10	//przyrost kondycji zwyk³ej roœliny pod wp³ywem czasu
+HERB_1 2	//spadek kondycji roœlino¿ercy pod wp³ywem czasu
+PRED_1 2	//spadek kondycji drapie¿nika pod wp³ywem czasu
+PLAN_2 20	//procentowe ograniczenie rozrostu roœlin
+HERB_3 40	//przyrost kondycji roœlino¿ercy pod wp³ywem jedzenia
+PRED_3 20	//przyrost kondycji drapie¿nika pod wp³ywem jedzenia
+PLAN_4 10	//pocz¹tkowa kondycja nowej roœliny
+HERB_4 20	//pocz¹tkowa kondycja nowego roœlino¿ercy
+PRED_4 20	//pocz¹tkowa kondycja nowego drapie¿nika
+PLAN_5 0	//spadek kondycji roœliny pod wp³ywem rozmna¿ania
+HERB_5 0	//spadek kondycji roœlino¿ercy pod wp³ywem rozmna¿ania
+PRED_5 0	//spadek kondycji drapie¿nika pod wp³ywem rozmna¿ania
+PLAN_6 10	//odstêp czasowy pomiêdzy rozmna¿aniem roœlin
+HERB_6 10	//odstêp czasowy pomiêdzy rozmna¿aniem roœlino¿erców
+PRED_6 10	//odstêp czasowy pomiêdzy rozmna¿aniem drapie¿ników
+WRITE 1		//zapis danych symulacji do pliku

@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  plik_b.cpp
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(61): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(106): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(118): warning C4309: 'static_cast': truncation of constant value
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(130): warning C4309: 'static_cast': truncation of constant value
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(180): warning C4018: '>': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(202): warning C4018: '>': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(220): warning C4018: '>': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(239): warning C4018: '>': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(339): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(658): warning C4101: 'JedzenieY': unreferenced local variable
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(657): warning C4101: 'JedzenieX': unreferenced local variable
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(713): warning C4101: 'JedzenieY': unreferenced local variable
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(712): warning C4101: 'JedzenieX': unreferenced local variable
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(856): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\documents\visual studio 2017\projects\ekosystem\ekosystem\plik_b.cpp(874): warning C4018: '<': signed/unsigned mismatch
+  Ekosystem.vcxproj -> C:\Users\Ja\documents\visual studio 2017\Projects\Ekosystem\Ekosystem\..\workdir\ekosystem32-debug.exe
+  Ekosystem.vcxproj -> ..\workdir\ekosystem32-debug.pdb (Partial PDB)

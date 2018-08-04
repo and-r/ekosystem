@@ -1,0 +1,20 @@
+MAP_Y 20	//vertical map size
+MAP_X 30	//horizontal map size
+DELAY 200	//simulation frame delay in miliseconds
+ROCK_1 10	//increase of rock plant condition over time
+PLAN_1 10	//increase of common plant condition over time
+HERB_1 2	//decrease of herbivore condition over time
+PRED_1 2	//decrease of predator condition over time
+PLAN_2 20	//percentage limit of plant growth
+HERB_3 40	//increase of herbivore condition from food
+PRED_3 20	//increase of predator condition from food
+PLAN_4 10	//initial condition of new plant
+HERB_4 20	//initial condition of new herbivore
+PRED_4 20	//initial condition of new predator
+PLAN_5 0	//decrease of plant condition from multiplication
+HERB_5 0	//decreaese of herbivore condition from multiplication
+PRED_5 0	//decrease of predator condition from multiplication
+PLAN_6 10	//time delay between plant multiplication
+HERB_6 10	//time delay between herbivore multiplication
+PRED_6 10	//time delay between predotor multiplication
+WRITE 1		//data record to file 0-no, 1-yes

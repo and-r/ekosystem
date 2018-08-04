@@ -1,0 +1,7 @@
+*.o
+*.obj
+*.iobj
+*.ilk
+*.pdb
+*.ipdb
+*.csv
